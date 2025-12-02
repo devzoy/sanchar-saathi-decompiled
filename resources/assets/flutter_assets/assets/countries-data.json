@@ -1,0 +1,1964 @@
+{
+    "countries": [
+        {
+            "countryName": "India",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "IN",
+            "dialCode": "+91",
+            "flagEmoji": "🇮🇳"
+        },
+        {
+            "countryName": "Afghanistan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "AF",
+            "dialCode": "+93",
+            "flagEmoji": "🇦🇫"
+        },
+        {
+            "countryName": "Aland Islands",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "AX",
+            "dialCode": "+358",
+            "flagEmoji": "🇦🇽"
+        },
+        {
+            "countryName": "Albania",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 9,
+            "isoCode": "AL",
+            "dialCode": "+355",
+            "flagEmoji": "🇦🇱"
+        },
+        {
+            "countryName": "Algeria",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "DZ",
+            "dialCode": "+213",
+            "flagEmoji": "🇩🇿"
+        },
+        {
+            "countryName": "American Samoa",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "AS",
+            "dialCode": "+1684",
+            "flagEmoji": "🇦🇸"
+        },
+        {
+            "countryName": "Andorra",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 9,
+            "isoCode": "AD",
+            "dialCode": "+376",
+            "flagEmoji": "🇦🇩"
+        },
+        {
+            "countryName": "Angola",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "AO",
+            "dialCode": "+244",
+            "flagEmoji": "🇦🇴"
+        },
+        {
+            "countryName": "Anguilla",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "AI",
+            "dialCode": "+1264",
+            "flagEmoji": "🇦🇮"
+        },
+        {
+            "countryName": "Antarctica",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "AQ",
+            "dialCode": "+672",
+            "flagEmoji": "🇦🇶"
+        },
+        {
+            "countryName": "Antigua and Barbuda",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "AG",
+            "dialCode": "+1268",
+            "flagEmoji": "🇦🇬"
+        },
+        {
+            "countryName": "Argentina",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "AR",
+            "dialCode": "+54",
+            "flagEmoji": "🇦🇷"
+        },
+        {
+            "countryName": "Armenia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "AM",
+            "dialCode": "+374",
+            "flagEmoji": "🇦🇲"
+        },
+        {
+            "countryName": "Aruba",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "AW",
+            "dialCode": "+297",
+            "flagEmoji": "🇦🇼"
+        },
+        {
+            "countryName": "Australia",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 15,
+            "isoCode": "AU",
+            "dialCode": "+61",
+            "flagEmoji": "🇦🇺"
+        },
+        {
+            "countryName": "Austria",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 13,
+            "isoCode": "AT",
+            "dialCode": "+43",
+            "flagEmoji": "🇦🇹"
+        },
+        {
+            "countryName": "Azerbaijan",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "AZ",
+            "dialCode": "+994",
+            "flagEmoji": "🇦🇿"
+        },
+        {
+            "countryName": "Bahamas",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "BS",
+            "dialCode": "+1242",
+            "flagEmoji": "🇧🇸"
+        },
+        {
+            "countryName": "Bahrain",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BH",
+            "dialCode": "+973",
+            "flagEmoji": "🇧🇭"
+        },
+        {
+            "countryName": "Bangladesh",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 10,
+            "isoCode": "BD",
+            "dialCode": "+880",
+            "flagEmoji": "🇧🇩"
+        },
+        {
+            "countryName": "Barbados",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "BB",
+            "dialCode": "+1246",
+            "flagEmoji": "🇧🇧"
+        },
+        {
+            "countryName": "Belarus",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 10,
+            "isoCode": "BY",
+            "dialCode": "+375",
+            "flagEmoji": "🇧🇾"
+        },
+        {
+            "countryName": "Belgium",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "BE",
+            "dialCode": "+32",
+            "flagEmoji": "🇧🇪"
+        },
+        {
+            "countryName": "Belize",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "BZ",
+            "dialCode": "+501",
+            "flagEmoji": "🇧🇿"
+        },
+        {
+            "countryName": "Benin",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BJ",
+            "dialCode": "+229",
+            "flagEmoji": "🇧🇯"
+        },
+        {
+            "countryName": "Bermuda",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "BM",
+            "dialCode": "+1441",
+            "flagEmoji": "🇧🇲"
+        },
+        {
+            "countryName": "Bhutan",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "BT",
+            "dialCode": "+975",
+            "flagEmoji": "🇧🇹"
+        },
+        {
+            "countryName": "Bolivia, Plurinational State of",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BO",
+            "dialCode": "+591",
+            "flagEmoji": "🇧🇴"
+        },
+        {
+            "countryName": "Bosnia and Herzegovina",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BA",
+            "dialCode": "+387",
+            "flagEmoji": "🇧🇦"
+        },
+        {
+            "countryName": "Botswana",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "BW",
+            "dialCode": "+267",
+            "flagEmoji": "🇧🇼"
+        },
+        {
+            "countryName": "Brazil",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "BR",
+            "dialCode": "+55",
+            "flagEmoji": "🇧🇷"
+        },
+        {
+            "countryName": "British Indian Ocean Territory",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "IO",
+            "dialCode": "+246",
+            "flagEmoji": "🇮🇴"
+        },
+        {
+            "countryName": "Brunei Darussalam",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "BN",
+            "dialCode": "+673",
+            "flagEmoji": "🇧🇳"
+        },
+        {
+            "countryName": "Bulgaria",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 9,
+            "isoCode": "BG",
+            "dialCode": "+359",
+            "flagEmoji": "🇧🇬"
+        },
+        {
+            "countryName": "Burkina Faso",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BF",
+            "dialCode": "+226",
+            "flagEmoji": "🇧🇫"
+        },
+        {
+            "countryName": "Burundi",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BI",
+            "dialCode": "+257",
+            "flagEmoji": "🇧🇮"
+        },
+        {
+            "countryName": "Cambodia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "KH",
+            "dialCode": "+855",
+            "flagEmoji": "🇰🇭"
+        },
+        {
+            "countryName": "Cameroon",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "CM",
+            "dialCode": "+237",
+            "flagEmoji": "🇨🇲"
+        },
+        {
+            "countryName": "Canada",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "CA",
+            "dialCode": "+1",
+            "flagEmoji": "🇨🇦"
+        },
+        {
+            "countryName": "Cape Verde",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "CV",
+            "dialCode": "+238",
+            "flagEmoji": "🇨🇻"
+        },
+        {
+            "countryName": "Cayman Islands",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "KY",
+            "dialCode": "+1345",
+            "flagEmoji": "🇰🇾"
+        },
+        {
+            "countryName": "Central African Republic",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "CF",
+            "dialCode": "+236",
+            "flagEmoji": "🇨🇫"
+        },
+        {
+            "countryName": "Chad",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "TD",
+            "dialCode": "+235",
+            "flagEmoji": "🇹🇩"
+        },
+        {
+            "countryName": "Chile",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "CL",
+            "dialCode": "+56",
+            "flagEmoji": "🇨🇱"
+        },
+        {
+            "countryName": "China",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 12,
+            "isoCode": "CN",
+            "dialCode": "+86",
+            "flagEmoji": "🇨🇳"
+        },
+        {
+            "countryName": "Christmas Island",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 15,
+            "isoCode": "CX",
+            "dialCode": "+61",
+            "flagEmoji": "🇨🇽"
+        },
+        {
+            "countryName": "Cocos (Keeling) Islands",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 15,
+            "isoCode": "CC",
+            "dialCode": "+61",
+            "flagEmoji": "🇨🇨"
+        },
+        {
+            "countryName": "Colombia",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "CO",
+            "dialCode": "+57",
+            "flagEmoji": "🇨🇴"
+        },
+        {
+            "countryName": "Comoros",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "KM",
+            "dialCode": "+269",
+            "flagEmoji": "🇰🇲"
+        },
+        {
+            "countryName": "Congo",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "CG",
+            "dialCode": "+242",
+            "flagEmoji": "🇨🇬"
+        },
+        {
+            "countryName": "Congo, The Democratic Republic of the Congo",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "CD",
+            "dialCode": "+243",
+            "flagEmoji": "🇨🇩"
+        },
+        {
+            "countryName": "Cook Islands",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 5,
+            "isoCode": "CK",
+            "dialCode": "+682",
+            "flagEmoji": "🇨🇰"
+        },
+        {
+            "countryName": "Costa Rica",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "CR",
+            "dialCode": "+506",
+            "flagEmoji": "🇨🇷"
+        },
+        {
+            "countryName": "Cote d'Ivoire",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "CI",
+            "dialCode": "+225",
+            "flagEmoji": "🇨🇮"
+        },
+        {
+            "countryName": "Croatia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 12,
+            "isoCode": "HR",
+            "dialCode": "+385",
+            "flagEmoji": "🇭🇷"
+        },
+        {
+            "countryName": "Cuba",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 8,
+            "isoCode": "CU",
+            "dialCode": "+53",
+            "flagEmoji": "🇨🇺"
+        },
+        {
+            "countryName": "Cyprus",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 11,
+            "isoCode": "CY",
+            "dialCode": "+357",
+            "flagEmoji": "🇨🇾"
+        },
+        {
+            "countryName": "Czech Republic",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "CZ",
+            "dialCode": "+420",
+            "flagEmoji": "🇨🇿"
+        },
+        {
+            "countryName": "Czech Republic",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "CZ",
+            "dialCode": "+420",
+            "flagEmoji": "🇨🇿"
+        },
+        {
+            "countryName": "Denmark",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "DK",
+            "dialCode": "+45",
+            "flagEmoji": "🇩🇰"
+        },
+        {
+            "countryName": "Djibouti",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "DJ",
+            "dialCode": "+253",
+            "flagEmoji": "🇩🇯"
+        },
+        {
+            "countryName": "Dominica",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "DM",
+            "dialCode": "+1767",
+            "flagEmoji": "🇩🇲"
+        },
+        {
+            "countryName": "Dominican Republic",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "DO",
+            "dialCode": "+1849",
+            "flagEmoji": "🇩🇴"
+        },
+        {
+            "countryName": "Ecuador",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "EC",
+            "dialCode": "+593",
+            "flagEmoji": "🇪🇨"
+        },
+        {
+            "countryName": "Egypt",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 9,
+            "isoCode": "EG",
+            "dialCode": "+20",
+            "flagEmoji": "🇪🇬"
+        },
+        {
+            "countryName": "El Salvador",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "SV",
+            "dialCode": "+503",
+            "flagEmoji": "🇸🇻"
+        },
+        {
+            "countryName": "Equatorial Guinea",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "GQ",
+            "dialCode": "+240",
+            "flagEmoji": "🇬🇶"
+        },
+        {
+            "countryName": "Eritrea",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "ER",
+            "dialCode": "+291",
+            "flagEmoji": "🇪🇷"
+        },
+        {
+            "countryName": "Estonia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "EE",
+            "dialCode": "+372",
+            "flagEmoji": "🇪🇪"
+        },
+        {
+            "countryName": "Ethiopia",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "ET",
+            "dialCode": "+251",
+            "flagEmoji": "🇪🇹"
+        },
+        {
+            "countryName": "Falkland Islands (Malvinas)",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 5,
+            "isoCode": "FK",
+            "dialCode": "+500",
+            "flagEmoji": "🇫🇰"
+        },
+        {
+            "countryName": "Faroe Islands",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "FO",
+            "dialCode": "+298",
+            "flagEmoji": "🇫🇴"
+        },
+        {
+            "countryName": "Fiji",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "FJ",
+            "dialCode": "+679",
+            "flagEmoji": "🇫🇯"
+        },
+        {
+            "countryName": "Finland",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 12,
+            "isoCode": "FI",
+            "dialCode": "+358",
+            "flagEmoji": "🇫🇮"
+        },
+        {
+            "countryName": "France",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "FR",
+            "dialCode": "+33",
+            "flagEmoji": "🇫🇷"
+        },
+        {
+            "countryName": "French Guiana",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "GF",
+            "dialCode": "+594",
+            "flagEmoji": "🇬🇫"
+        },
+        {
+            "countryName": "French Polynesia",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "PF",
+            "dialCode": "+689",
+            "flagEmoji": "🇵🇫"
+        },
+        {
+            "countryName": "Gabon",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 7,
+            "isoCode": "GA",
+            "dialCode": "+241",
+            "flagEmoji": "🇬🇦"
+        },
+        {
+            "countryName": "Gambia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "GM",
+            "dialCode": "+220",
+            "flagEmoji": "🇬🇲"
+        },
+        {
+            "countryName": "Georgia",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "GE",
+            "dialCode": "+995",
+            "flagEmoji": "🇬🇪"
+        },
+        {
+            "countryName": "Germany",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 13,
+            "isoCode": "DE",
+            "dialCode": "+49",
+            "flagEmoji": "🇩🇪"
+        },
+        {
+            "countryName": "Ghana",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "GH",
+            "dialCode": "+233",
+            "flagEmoji": "🇬🇭"
+        },
+        {
+            "countryName": "Gibraltar",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "GI",
+            "dialCode": "+350",
+            "flagEmoji": "🇬🇮"
+        },
+        {
+            "countryName": "Greece",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "GR",
+            "dialCode": "+30",
+            "flagEmoji": "🇬🇷"
+        },
+        {
+            "countryName": "Greenland",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "GL",
+            "dialCode": "+299",
+            "flagEmoji": "🇬🇱"
+        },
+        {
+            "countryName": "Grenada",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "GD",
+            "dialCode": "+1473",
+            "flagEmoji": "🇬🇩"
+        },
+        {
+            "countryName": "Guadeloupe",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "GP",
+            "dialCode": "+590",
+            "flagEmoji": "🇬🇵"
+        },
+        {
+            "countryName": "Guam",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "GU",
+            "dialCode": "+1671",
+            "flagEmoji": "🇬🇺"
+        },
+        {
+            "countryName": "Guatemala",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "GT",
+            "dialCode": "+502",
+            "flagEmoji": "🇬🇹"
+        },
+        {
+            "countryName": "Guernsey",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "GG",
+            "dialCode": "+44",
+            "flagEmoji": "🇬🇬"
+        },
+        {
+            "countryName": "Guinea",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "GN",
+            "dialCode": "+224",
+            "flagEmoji": "🇬🇳"
+        },
+        {
+            "countryName": "Guinea-Bissau",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "GW",
+            "dialCode": "+245",
+            "flagEmoji": "🇬🇼"
+        },
+        {
+            "countryName": "Guyana",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "GY",
+            "dialCode": "+592",
+            "flagEmoji": "🇬🇾"
+        },
+        {
+            "countryName": "Haiti",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "HT",
+            "dialCode": "+509",
+            "flagEmoji": "🇭🇹"
+        },
+        {
+            "countryName": "Holy See (Vatican City State)",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "VA",
+            "dialCode": "+379",
+            "flagEmoji": "🇻🇦"
+        },
+        {
+            "countryName": "Honduras",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "HN",
+            "dialCode": "+504",
+            "flagEmoji": "🇭🇳"
+        },
+        {
+            "countryName": "Hong Kong",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "HK",
+            "dialCode": "+852",
+            "flagEmoji": "🇭🇰"
+        },
+        {
+            "countryName": "Hungary",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "HU",
+            "dialCode": "+36",
+            "flagEmoji": "🇭🇺"
+        },
+        {
+            "countryName": "Iceland",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "IS",
+            "dialCode": "+354",
+            "flagEmoji": "🇮🇸"
+        },
+        {
+            "countryName": "Indonesia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 13,
+            "isoCode": "ID",
+            "dialCode": "+62",
+            "flagEmoji": "🇮🇩"
+        },
+        {
+            "countryName": "Iran, Islamic Republic of Persian Gulf",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 10,
+            "isoCode": "IR",
+            "dialCode": "+98",
+            "flagEmoji": "🇮🇷"
+        },
+        {
+            "countryName": "Iraq",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 10,
+            "isoCode": "IQ",
+            "dialCode": "+964",
+            "flagEmoji": "🇮🇶"
+        },
+        {
+            "countryName": "Ireland",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 10,
+            "isoCode": "IE",
+            "dialCode": "+353",
+            "flagEmoji": "🇮🇪"
+        },
+        {
+            "countryName": "Isle of Man",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "IM",
+            "dialCode": "+44",
+            "flagEmoji": "🇮🇲"
+        },
+        {
+            "countryName": "Israel",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "IL",
+            "dialCode": "+972",
+            "flagEmoji": "🇮🇱"
+        },
+        {
+            "countryName": "Italy",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 12,
+            "isoCode": "IT",
+            "dialCode": "+39",
+            "flagEmoji": "🇮🇹"
+        },
+        {
+            "countryName": "Jamaica",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "JM",
+            "dialCode": "+1876",
+            "flagEmoji": "🇯🇲"
+        },
+        {
+            "countryName": "Japan",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 13,
+            "isoCode": "JP",
+            "dialCode": "+81",
+            "flagEmoji": "🇯🇵"
+        },
+        {
+            "countryName": "Jersey",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "JE",
+            "dialCode": "+44",
+            "flagEmoji": "🇯🇪"
+        },
+        {
+            "countryName": "Jordan",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "JO",
+            "dialCode": "+962",
+            "flagEmoji": "🇯🇴"
+        },
+        {
+            "countryName": "Kazakhstan",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "KZ",
+            "dialCode": "+7",
+            "flagEmoji": "🇰🇿"
+        },
+        {
+            "countryName": "Kenya",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 12,
+            "isoCode": "KE",
+            "dialCode": "+254",
+            "flagEmoji": "🇰🇪"
+        },
+        {
+            "countryName": "Kiribati",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 8,
+            "isoCode": "KI",
+            "dialCode": "+686",
+            "flagEmoji": "🇰🇮"
+        },
+        {
+            "countryName": "Korea, Democratic People's Republic of Korea",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 17,
+            "isoCode": "KP",
+            "dialCode": "+850",
+            "flagEmoji": "🇰🇵"
+        },
+        {
+            "countryName": "Korea, Republic of South Korea",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 11,
+            "isoCode": "KR",
+            "dialCode": "+82",
+            "flagEmoji": "🇰🇷"
+        },
+        {
+            "countryName": "Kuwait",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "KW",
+            "dialCode": "+965",
+            "flagEmoji": "🇰🇼"
+        },
+        {
+            "countryName": "Kyrgyzstan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "KG",
+            "dialCode": "+996",
+            "flagEmoji": "🇰🇬"
+        },
+        {
+            "countryName": "Laos",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 10,
+            "isoCode": "LA",
+            "dialCode": "+856",
+            "flagEmoji": "🇱🇦"
+        },
+        {
+            "countryName": "Latvia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "LV",
+            "dialCode": "+371",
+            "flagEmoji": "🇱🇻"
+        },
+        {
+            "countryName": "Lebanon",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "LB",
+            "dialCode": "+961",
+            "flagEmoji": "🇱🇧"
+        },
+        {
+            "countryName": "Lesotho",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "LS",
+            "dialCode": "+266",
+            "flagEmoji": "🇱🇸"
+        },
+        {
+            "countryName": "Liberia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "LR",
+            "dialCode": "+231",
+            "flagEmoji": "🇱🇷"
+        },
+        {
+            "countryName": "Libyan Arab Jamahiriya",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "LY",
+            "dialCode": "+218",
+            "flagEmoji": "🇱🇾"
+        },
+        {
+            "countryName": "Liechtenstein",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 9,
+            "isoCode": "LI",
+            "dialCode": "+423",
+            "flagEmoji": "🇱🇮"
+        },
+        {
+            "countryName": "Lithuania",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "LT",
+            "dialCode": "+370",
+            "flagEmoji": "🇱🇹"
+        },
+        {
+            "countryName": "Luxembourg",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 11,
+            "isoCode": "LU",
+            "dialCode": "+352",
+            "flagEmoji": "🇱🇺"
+        },
+        {
+            "countryName": "Macau",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "MO",
+            "dialCode": "+853",
+            "flagEmoji": "🇲🇴"
+        },
+        {
+            "countryName": "Macedonia",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 8,
+            "isoCode": "MK",
+            "dialCode": "+389",
+            "flagEmoji": "🇲🇰"
+        },
+        {
+            "countryName": "Macedonia",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 8,
+            "isoCode": "MK",
+            "dialCode": "+389",
+            "flagEmoji": "🇲🇰"
+        },
+        {
+            "countryName": "Madagascar",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 10,
+            "isoCode": "MG",
+            "dialCode": "+261",
+            "flagEmoji": "🇲🇬"
+        },
+        {
+            "countryName": "Malawi",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "MW",
+            "dialCode": "+265",
+            "flagEmoji": "🇲🇼"
+        },
+        {
+            "countryName": "Malaysia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 9,
+            "isoCode": "MY",
+            "dialCode": "+60",
+            "flagEmoji": "🇲🇾"
+        },
+        {
+            "countryName": "Maldives",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "MV",
+            "dialCode": "+960",
+            "flagEmoji": "🇲🇻"
+        },
+        {
+            "countryName": "Mali",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "ML",
+            "dialCode": "+223",
+            "flagEmoji": "🇲🇱"
+        },
+        {
+            "countryName": "Malta",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "MT",
+            "dialCode": "+356",
+            "flagEmoji": "🇲🇹"
+        },
+        {
+            "countryName": "Marshall Islands",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "MH",
+            "dialCode": "+692",
+            "flagEmoji": "🇲🇭"
+        },
+        {
+            "countryName": "Martinique",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "MQ",
+            "dialCode": "+596",
+            "flagEmoji": "🇲🇶"
+        },
+        {
+            "countryName": "Mauritania",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "MR",
+            "dialCode": "+222",
+            "flagEmoji": "🇲🇷"
+        },
+        {
+            "countryName": "Mauritius",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "MU",
+            "dialCode": "+230",
+            "flagEmoji": "🇲🇺"
+        },
+        {
+            "countryName": "Mayotte",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "YT",
+            "dialCode": "+262",
+            "flagEmoji": "🇾🇹"
+        },
+        {
+            "countryName": "Mexico",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "MX",
+            "dialCode": "+52",
+            "flagEmoji": "🇲🇽"
+        },
+        {
+            "countryName": "Micronesia, Federated States of Micronesia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "FM",
+            "dialCode": "+691",
+            "flagEmoji": "🇫🇲"
+        },
+        {
+            "countryName": "Moldova",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "MD",
+            "dialCode": "+373",
+            "flagEmoji": "🇲🇩"
+        },
+        {
+            "countryName": "Monaco",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "MC",
+            "dialCode": "+377",
+            "flagEmoji": "🇲🇨"
+        },
+        {
+            "countryName": "Mongolia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "MN",
+            "dialCode": "+976",
+            "flagEmoji": "🇲🇳"
+        },
+        {
+            "countryName": "Montenegro",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "ME",
+            "dialCode": "+382",
+            "flagEmoji": "🇲🇪"
+        },
+        {
+            "countryName": "Montserrat",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "MS",
+            "dialCode": "+1664",
+            "flagEmoji": "🇲🇸"
+        },
+        {
+            "countryName": "Morocco",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "MA",
+            "dialCode": "+212",
+            "flagEmoji": "🇲🇦"
+        },
+        {
+            "countryName": "Mozambique",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "MZ",
+            "dialCode": "+258",
+            "flagEmoji": "🇲🇿"
+        },
+        {
+            "countryName": "Myanmar",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 9,
+            "isoCode": "MM",
+            "dialCode": "+95",
+            "flagEmoji": "🇲🇲"
+        },
+        {
+            "countryName": "Namibia",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 10,
+            "isoCode": "NA",
+            "dialCode": "+264",
+            "flagEmoji": "🇳🇦"
+        },
+        {
+            "countryName": "Nauru",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 7,
+            "isoCode": "NR",
+            "dialCode": "+674",
+            "flagEmoji": "🇳🇷"
+        },
+        {
+            "countryName": "Nepal",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "NP",
+            "dialCode": "+977",
+            "flagEmoji": "🇳🇵"
+        },
+        {
+            "countryName": "Netherlands",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "NL",
+            "dialCode": "+31",
+            "flagEmoji": "🇳🇱"
+        },
+        {
+            "countryName": "Netherlands Antilles",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "AN",
+            "dialCode": "+599",
+            "flagEmoji": "🇧🇶"
+        },
+        {
+            "countryName": "New Caledonia",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "NC",
+            "dialCode": "+687",
+            "flagEmoji": "🇳🇨"
+        },
+        {
+            "countryName": "New Zealand",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 10,
+            "isoCode": "NZ",
+            "dialCode": "+64",
+            "flagEmoji": "🇳🇿"
+        },
+        {
+            "countryName": "Nicaragua",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "NI",
+            "dialCode": "+505",
+            "flagEmoji": "🇳🇮"
+        },
+        {
+            "countryName": "Niger",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "NE",
+            "dialCode": "+227",
+            "flagEmoji": "🇳🇪"
+        },
+        {
+            "countryName": "Nigeria",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "NG",
+            "dialCode": "+234",
+            "flagEmoji": "🇳🇬"
+        },
+        {
+            "countryName": "Niue",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 4,
+            "isoCode": "NU",
+            "dialCode": "+683",
+            "flagEmoji": "🇳🇺"
+        },
+        {
+            "countryName": "Norfolk Island",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "NF",
+            "dialCode": "+672",
+            "flagEmoji": "🇳🇫"
+        },
+        {
+            "countryName": "Northern Mariana Islands",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "MP",
+            "dialCode": "+1670",
+            "flagEmoji": "🇲🇵"
+        },
+        {
+            "countryName": "Norway",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 8,
+            "isoCode": "NO",
+            "dialCode": "+47",
+            "flagEmoji": "🇳🇴"
+        },
+        {
+            "countryName": "Oman",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "OM",
+            "dialCode": "+968",
+            "flagEmoji": "🇴🇲"
+        },
+        {
+            "countryName": "Pakistan",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 11,
+            "isoCode": "PK",
+            "dialCode": "+92",
+            "flagEmoji": "🇵🇰"
+        },
+        {
+            "countryName": "Palau",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "PW",
+            "dialCode": "+680",
+            "flagEmoji": "🇵🇼"
+        },
+        {
+            "countryName": "Palestinian Territory, Occupied",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "PS",
+            "dialCode": "+970",
+            "flagEmoji": "🇵🇸"
+        },
+        {
+            "countryName": "Panama",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "PA",
+            "dialCode": "+507",
+            "flagEmoji": "🇵🇦"
+        },
+        {
+            "countryName": "Papua New Guinea",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 11,
+            "isoCode": "PG",
+            "dialCode": "+675",
+            "flagEmoji": "🇵🇬"
+        },
+        {
+            "countryName": "Paraguay",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 9,
+            "isoCode": "PY",
+            "dialCode": "+595",
+            "flagEmoji": "🇵🇾"
+        },
+        {
+            "countryName": "Peru",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 11,
+            "isoCode": "PE",
+            "dialCode": "+51",
+            "flagEmoji": "🇵🇪"
+        },
+        {
+            "countryName": "Philippines",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 10,
+            "isoCode": "PH",
+            "dialCode": "+63",
+            "flagEmoji": "🇵🇭"
+        },
+        {
+            "countryName": "Pitcairn",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 10,
+            "isoCode": "PN",
+            "dialCode": "+64",
+            "flagEmoji": "🇵🇳"
+        },
+        {
+            "countryName": "Poland",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 9,
+            "isoCode": "PL",
+            "dialCode": "+48",
+            "flagEmoji": "🇵🇱"
+        },
+        {
+            "countryName": "Portugal",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 11,
+            "isoCode": "PT",
+            "dialCode": "+351",
+            "flagEmoji": "🇵🇹"
+        },
+        {
+            "countryName": "Puerto Rico",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "PR",
+            "dialCode": "+1939",
+            "flagEmoji": "🇵🇷"
+        },
+        {
+            "countryName": "Qatar",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 8,
+            "isoCode": "QA",
+            "dialCode": "+974",
+            "flagEmoji": "🇶🇦"
+        },
+        {
+            "countryName": "Romania",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "RO",
+            "dialCode": "+40",
+            "flagEmoji": "🇷🇴"
+        },
+        {
+            "countryName": "Russia",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "RU",
+            "dialCode": "+7",
+            "flagEmoji": "🇷🇺"
+        },
+        {
+            "countryName": "Rwanda",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "RW",
+            "dialCode": "+250",
+            "flagEmoji": "🇷🇼"
+        },
+        {
+            "countryName": "Reunion",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "RE",
+            "dialCode": "+262",
+            "flagEmoji": "🇷🇪"
+        },
+        {
+            "countryName": "Saint Barthelemy",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "BL",
+            "dialCode": "+590",
+            "flagEmoji": "🇧🇱"
+        },
+        {
+            "countryName": "Saint Helena, Ascension and Tristan Da Cunha",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 5,
+            "isoCode": "SH",
+            "dialCode": "+290",
+            "flagEmoji": "🇸🇭"
+        },
+        {
+            "countryName": "Saint Kitts and Nevis",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "KN",
+            "dialCode": "+1869",
+            "flagEmoji": "🇰🇳"
+        },
+        {
+            "countryName": "Saint Lucia",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "LC",
+            "dialCode": "+1758",
+            "flagEmoji": "🇱🇨"
+        },
+        {
+            "countryName": "Saint Martin",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "MF",
+            "dialCode": "+590",
+            "flagEmoji": "🇲🇫"
+        },
+        {
+            "countryName": "Saint Pierre and Miquelon",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "PM",
+            "dialCode": "+508",
+            "flagEmoji": "🇵🇲"
+        },
+        {
+            "countryName": "Saint Vincent and the Grenadines",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "VC",
+            "dialCode": "+1784",
+            "flagEmoji": "🇻🇨"
+        },
+        {
+            "countryName": "Samoa",
+            "minPhoneLength": 3,
+            "maxPhoneLength": 7,
+            "isoCode": "WS",
+            "dialCode": "+685",
+            "flagEmoji": "🇼🇸"
+        },
+        {
+            "countryName": "San Marino",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 10,
+            "isoCode": "SM",
+            "dialCode": "+378",
+            "flagEmoji": "🇸🇲"
+        },
+        {
+            "countryName": "Sao Tome and Principe",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "ST",
+            "dialCode": "+239",
+            "flagEmoji": "🇸🇹"
+        },
+        {
+            "countryName": "Saudi Arabia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "SA",
+            "dialCode": "+966",
+            "flagEmoji": "🇸🇦"
+        },
+        {
+            "countryName": "Senegal",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "SN",
+            "dialCode": "+221",
+            "flagEmoji": "🇸🇳"
+        },
+        {
+            "countryName": "Serbia",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "RS",
+            "dialCode": "+381",
+            "flagEmoji": "🇷🇸"
+        },
+        {
+            "countryName": "Seychelles",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "SC",
+            "dialCode": "+248",
+            "flagEmoji": "🇸🇨"
+        },
+        {
+            "countryName": "Sierra Leone",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "SL",
+            "dialCode": "+232",
+            "flagEmoji": "🇸🇱"
+        },
+        {
+            "countryName": "Singapore",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 12,
+            "isoCode": "SG",
+            "dialCode": "+65",
+            "flagEmoji": "🇸🇬"
+        },
+        {
+            "countryName": "Slovakia",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 9,
+            "isoCode": "SK",
+            "dialCode": "+421",
+            "flagEmoji": "🇸🇰"
+        },
+        {
+            "countryName": "Slovenia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "SI",
+            "dialCode": "+386",
+            "flagEmoji": "🇸🇮"
+        },
+        {
+            "countryName": "Solomon Islands",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 5,
+            "isoCode": "SB",
+            "dialCode": "+677",
+            "flagEmoji": "🇸🇧"
+        },
+        {
+            "countryName": "Somalia",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 8,
+            "isoCode": "SO",
+            "dialCode": "+252",
+            "flagEmoji": "🇸🇴"
+        },
+        {
+            "countryName": "South Africa",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "ZA",
+            "dialCode": "+27",
+            "flagEmoji": "🇿🇦"
+        },
+        {
+            "countryName": "South Sudan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "SS",
+            "dialCode": "+211",
+            "flagEmoji": "🇸🇸"
+        },
+        {
+            "countryName": "South Georgia and the South Sandwich Islands",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "GS",
+            "dialCode": "+500",
+            "flagEmoji": "🇬🇸"
+        },
+        {
+            "countryName": "Spain",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "ES",
+            "dialCode": "+34",
+            "flagEmoji": "🇪🇸"
+        },
+        {
+            "countryName": "Sri Lanka",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "LK",
+            "dialCode": "+94",
+            "flagEmoji": "🇱🇰"
+        },
+        {
+            "countryName": "Sudan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "SD",
+            "dialCode": "+249",
+            "flagEmoji": "🇸🇩"
+        },
+        {
+            "countryName": "Suriname",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 7,
+            "isoCode": "SR",
+            "dialCode": "+597",
+            "flagEmoji": "🇸🇷"
+        },
+        {
+            "countryName": "Svalbard and Jan Mayen",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "SJ",
+            "dialCode": "+47",
+            "flagEmoji": "🇸🇯"
+        },
+        {
+            "countryName": "Swaziland",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "SZ",
+            "dialCode": "+268",
+            "flagEmoji": "🇸🇿"
+        },
+        {
+            "countryName": "Sweden",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 13,
+            "isoCode": "SE",
+            "dialCode": "+46",
+            "flagEmoji": "🇸🇪"
+        },
+        {
+            "countryName": "Switzerland",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 12,
+            "isoCode": "CH",
+            "dialCode": "+41",
+            "flagEmoji": "🇨🇭"
+        },
+        {
+            "countryName": "Syrian Arab Republic",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 10,
+            "isoCode": "SY",
+            "dialCode": "+963",
+            "flagEmoji": "🇸🇾"
+        },
+        {
+            "countryName": "Taiwan",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "TW",
+            "dialCode": "+886",
+            "flagEmoji": "🇹🇼"
+        },
+        {
+            "countryName": "Tajikistan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "TJ",
+            "dialCode": "+992",
+            "flagEmoji": "🇹🇯"
+        },
+        {
+            "countryName": "Tanzania, United Republic of Tanzania",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "TZ",
+            "dialCode": "+255",
+            "flagEmoji": "🇹🇿"
+        },
+        {
+            "countryName": "Thailand",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "TH",
+            "dialCode": "+66",
+            "flagEmoji": "🇹🇭"
+        },
+        {
+            "countryName": "Timor-Leste",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 8,
+            "isoCode": "TL",
+            "dialCode": "+670",
+            "flagEmoji": "🇹🇱"
+        },
+        {
+            "countryName": "Togo",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "TG",
+            "dialCode": "+228",
+            "flagEmoji": "🇹🇬"
+        },
+        {
+            "countryName": "Tokelau",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 4,
+            "isoCode": "TK",
+            "dialCode": "+690",
+            "flagEmoji": "🇹🇰"
+        },
+        {
+            "countryName": "Tonga",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 7,
+            "isoCode": "TO",
+            "dialCode": "+676",
+            "flagEmoji": "🇹🇴"
+        },
+        {
+            "countryName": "Trinidad and Tobago",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "TT",
+            "dialCode": "+1868",
+            "flagEmoji": "🇹🇹"
+        },
+        {
+            "countryName": "Tunisia",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "TN",
+            "dialCode": "+216",
+            "flagEmoji": "🇹🇳"
+        },
+        {
+            "countryName": "Turkey",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "TR",
+            "dialCode": "+90",
+            "flagEmoji": "🇹🇷"
+        },
+        {
+            "countryName": "Turkmenistan",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 8,
+            "isoCode": "TM",
+            "dialCode": "+993",
+            "flagEmoji": "🇹🇲"
+        },
+        {
+            "countryName": "Turks and Caicos Islands",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "TC",
+            "dialCode": "+1649",
+            "flagEmoji": "🇹🇨"
+        },
+        {
+            "countryName": "Tuvalu",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 6,
+            "isoCode": "TV",
+            "dialCode": "+688",
+            "flagEmoji": "🇹🇻"
+        },
+        {
+            "countryName": "Uganda",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "UG",
+            "dialCode": "+256",
+            "flagEmoji": "🇺🇬"
+        },
+        {
+            "countryName": "Ukraine",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "UA",
+            "dialCode": "+380",
+            "flagEmoji": "🇺🇦"
+        },
+        {
+            "countryName": "United Arab Emirates",
+            "minPhoneLength": 8,
+            "maxPhoneLength": 9,
+            "isoCode": "AE",
+            "dialCode": "+971",
+            "flagEmoji": "🇦🇪"
+        },
+        {
+            "countryName": "United Kingdom",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "GB",
+            "dialCode": "+44",
+            "flagEmoji": "🇬🇧"
+        },
+        {
+            "countryName": "United States",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "US",
+            "dialCode": "+1",
+            "flagEmoji": "🇺🇸"
+        },
+        {
+            "countryName": "Uruguay",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 11,
+            "isoCode": "UY",
+            "dialCode": "+598",
+            "flagEmoji": "🇺🇾"
+        },
+        {
+            "countryName": "Uzbekistan",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "UZ",
+            "dialCode": "+998",
+            "flagEmoji": "🇺🇿"
+        },
+        {
+            "countryName": "Vanuatu",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 7,
+            "isoCode": "VU",
+            "dialCode": "+678",
+            "flagEmoji": "🇻🇺"
+        },
+        {
+            "countryName": "Venezuela, Bolivarian Republic of Venezuela",
+            "minPhoneLength": 10,
+            "maxPhoneLength": 10,
+            "isoCode": "VE",
+            "dialCode": "+58",
+            "flagEmoji": "🇻🇪"
+        },
+        {
+            "countryName": "Vietnam",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 10,
+            "isoCode": "VN",
+            "dialCode": "+84",
+            "flagEmoji": "🇻🇳"
+        },
+        {
+            "countryName": "Virgin Islands, British",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "VG",
+            "dialCode": "+1284",
+            "flagEmoji": "🇻🇬"
+        },
+        {
+            "countryName": "Virgin Islands, U.S.",
+            "minPhoneLength": 7,
+            "maxPhoneLength": 7,
+            "isoCode": "VI",
+            "dialCode": "+1340",
+            "flagEmoji": "🇻🇮"
+        },
+        {
+            "countryName": "Wallis and Futuna",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 6,
+            "isoCode": "WF",
+            "dialCode": "+681",
+            "flagEmoji": "🇼🇫"
+        },
+        {
+            "countryName": "Yemen",
+            "minPhoneLength": 6,
+            "maxPhoneLength": 9,
+            "isoCode": "YE",
+            "dialCode": "+967",
+            "flagEmoji": "🇾🇪"
+        },
+        {
+            "countryName": "Zambia",
+            "minPhoneLength": 9,
+            "maxPhoneLength": 9,
+            "isoCode": "ZM",
+            "dialCode": "+260",
+            "flagEmoji": "🇿🇲"
+        },
+        {
+            "countryName": "Zimbabwe",
+            "minPhoneLength": 5,
+            "maxPhoneLength": 10,
+            "isoCode": "ZW",
+            "dialCode": "+263",
+            "flagEmoji": "🇿🇼"
+        },
+        {
+            "countryName": "Unknown country",
+            "minPhoneLength": 4,
+            "maxPhoneLength": 15,
+            "isoCode": "UN",
+            "dialCode": "+",
+            "flagEmoji": "🌎"
+        }
+    ]
+}

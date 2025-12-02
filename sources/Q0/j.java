@@ -1,0 +1,10 @@
+package Q0;
+
+public enum j {
+    NOT_REQUIRED,
+    CONNECTED,
+    UNMETERED,
+    NOT_ROAMING,
+    METERED,
+    TEMPORARILY_UNMETERED
+}

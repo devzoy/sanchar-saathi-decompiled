@@ -1,0 +1,167 @@
+[
+  {
+    "SlNo": 1,
+    "Question": "Sanchar Saathi is an initiative of which organization/Ministry?",
+    "Options": [
+      "Telecom Regulatory Authority of India (TRAI)",
+      "Department of Telecommunications (DoT)",
+      "Ministry of Home Affairs (MHA)",
+      "Reserve Bank of India (RBI)"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 4,
+    "Question": "The Sanchar Saathi mobile app was launched in:",
+    "Options": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "Answer": 4
+  },
+  {
+    "SlNo": 10,
+    "Question": "Which section of Sanchar Saathi creates awareness about telecom safety tips?",
+    "Options": [
+      "Keep Yourself Aware",
+      "Block Your Lost/ Stolen Mobile Handset",
+      "Know Genuineness of Your Mobile Handset",
+      "Trusted Contact Details"
+    ],
+    "Answer": 1
+  },
+  {
+    "SlNo": 16,
+    "Question": "Which is one of the services offered by the Sanchar Saathi:",
+    "Options": [
+      "To monitor international communications",
+      "To provide mobile service for rural areas",
+      "To assist in the tracking of lost or stolen mobile devices",
+      "To reduce internet prices"
+    ],
+    "Answer": 3
+  },
+  {
+    "SlNo": 24,
+    "Question": "Citizen can find Wireline Internet service provider in their area by entering:",
+    "Options": [
+      "PIN Code",
+      "Address",
+      "ISP name",
+      "All of the above"
+    ],
+    "Answer": 4
+  },
+  {
+    "SlNo": 31,
+    "Question": "The Sanchar Saathi ensures that a blocked phone:",
+    "Options": [
+      "Cannot be used on any Indian telecom network",
+      "Can only be used for calls",
+      "Can only be used for internet",
+      "None of the above"
+    ],
+    "Answer": 1
+  },
+  {
+    "SlNo": 35,
+    "Question": "If your phone is lost, which 3 steps are recommended as per Sanchar Saathi?",
+    "Options": [
+      "Block WhatsApp, block SIM, buy new phone",
+      "Recharge SIM, call bank, buy new phone",
+      "Inform friends, reset phone, inform police",
+      "Report to police, block SIM, block handset through Sanchar Saathi"
+    ],
+    "Answer": 4
+  },
+  {
+    "SlNo": 43,
+    "Question": "What happens to mobile connections reported as Not My Number or Not Required on Sanchar Saathi:",
+    "Options": [
+      "Asking for new mobile connection",
+      "flagged for re-verification by the service provider.",
+      "change of mobile handset",
+      "Nothing happens"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 46,
+    "Question": "Once a number is reported as Not My Number/ Not required on Know Your Mobile Connections module of Sanchar Saathi, the request cannot be revoked:",
+    "Options": [
+      "Yes, it can’t revoked",
+      "No, it can be revoked anytime",
+      "No, it can be revoked by 11:59 PM on the day of reporting",
+      "No, it can be revoked within 7 days of reporting"
+    ],
+    "Answer": 3
+  },
+  {
+    "SlNo": 47,
+    "Question": "“Chakshu” module of Sanchar Saathi is used for:",
+    "Options": [
+      "Blocking mobile numbers",
+      "Reporting suspected fraud/spam through calls, SMS, WhatsApp",
+      "Paying phone bills",
+      "Report IMEI numbers"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 52,
+    "Question": "If you report a fraud SMS on Sanchar Saathi, what happens?",
+    "Options": [
+      "SMS is deleted only from your phone",
+      "Authorities and telecom operators take action on sender",
+      "You are rewarded",
+      "Nothing happens"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 57,
+    "Question": "How can you check the IMEI of your phone to use Sanchar Saathi?",
+    "Options": [
+      "Dial *#06# on your phone",
+      "Only from mobile store",
+      "Only by police",
+      "Only from Aadhaar"
+    ],
+    "Answer": 1
+  },
+  {
+    "SlNo": 58,
+    "Question": "Which facility of Sanchar Saathi should be used by citizen while purchasing new or second hand phone?",
+    "Options": [
+      "Block your lost / stolen mobile handset",
+      "Know Genuineness of Your Mobile Handset",
+      "Chakshu",
+      "Trusted Contact Details"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 60,
+    "Question": "The “Trusted Contact Details” feature of Sanchar Saathi provides:",
+    "Options": [
+      "Mobile numbers of friends",
+      "Official helpline numbers/websites of financial institutions",
+      "Recharge offers",
+      "Spam numbers"
+    ],
+    "Answer": 2
+  },
+  {
+    "SlNo": 61,
+    "Question": "“Trusted Contact Details” feature of Sanchar Saathi helps in:",
+    "Options": [
+      "Verifying bank helpline numbers",
+      "Recharging prepaid mobiles",
+      "Registering new SIM cards",
+      "Blocking unknown numbers"
+    ],
+    "Answer": 1
+  }
+]
